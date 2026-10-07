@@ -42,4 +42,4 @@ short_description: 'YOLO & MediaPipe '
 ```
 
 [DEPLOY](https://huggingface.co/spaces/lilyjeongwon/hf_rope)
-![QR 코드](./assets/qr.png)
+![QR 코드](https://raw.githubusercontent.com/seongui2030/wikidocs_hf_rope/main/assets/qr.png)
