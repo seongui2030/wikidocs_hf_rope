@@ -1,5 +1,5 @@
 
-# 🏃‍♂️ [AI 동반 코치(Co-Coach) 코코](https://huggingface.co/spaces/lilyjeongwon/hf_rope)
+# 🏃‍♂️ [AI 코코(Co-Coach)](https://huggingface.co/spaces/lilyjeongwon/hf_rope)
 
 **"AI 코코(Co-Coach)"**는 체육 수업 시간 중 학생들의 운동 자세(줄넘기, 축구, 달리기, 멀리뛰기)를 비전 AI 기술로 분석하고, 실시간 스켈레톤 시각화 및 1.5배속 음성 피드백을 제공하는 웹 대시보드 앱입니다.
 
