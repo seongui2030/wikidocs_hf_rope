@@ -41,4 +41,4 @@ license: mit
 short_description: 'YOLO & MediaPipe '
 ```
 
-DEPLOY https://huggingface.co/spaces/lilyjeongwon/hf_rope
+[DEPLOY](https://huggingface.co/spaces/lilyjeongwon/hf_rope)
