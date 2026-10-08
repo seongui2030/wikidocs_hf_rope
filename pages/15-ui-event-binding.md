@@ -1,5 +1,3 @@
-# 15. Gradio UI와 AI 분석 엔진 함수 연결
-
 ## 1. 학습 목표
 * 이벤트 기반 프로그래밍(Event Driven Programming)의 개념을 이해합니다.
 * Gradio UI의 분석 실행 버튼 클릭 시 백엔드 파이프라인 함수가 작동하도록 매핑합니다.
