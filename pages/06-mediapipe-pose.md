@@ -1,5 +1,3 @@
-# 06. MediaPipe Pose Landmarker와 관절 좌표
-
 ## 1. 학습 목표
 * MediaPipe Pose 모델을 활용하여 인체의 33개 관절 랜드마크(Landmark) 위치를 좌표로 추출하는 원리를 익힙니다.
 * 정규화된 관절 좌표를 영상 크기에 맞추어 Pixel 좌표로 변환합니다.
