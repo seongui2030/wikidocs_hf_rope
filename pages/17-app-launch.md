@@ -1,5 +1,3 @@
-# 17. 앱 실행 및 Hugging Face/Colab 배포
-
 ## 1. 학습 목표
 * 작성된 웹 애플리케이션을 구동하고 `share=True` 옵션을 이용하여 외부 라이브 접속 링크를 생성합니다.
 * Hugging Face Spaces 환경으로 배포하는 절차를 이해합니다.
